@@ -8,8 +8,10 @@ JavaScript applications.
 # Instructions
 
 1. clone the repo from https://github.com/udacity/frontend-nanodegree-feedreader
-2. follow the 'ToDos' in the commented sections of the app.js
-3. for complete instructions see below:
+2. follow the 'ToDos' in the commented sections of the js/feedreader.js
+3. in order to test, simply open the index.html file in your browser, jasmine should run.  If you have any syntax errors,
+Jasmine will thow it's own error "There are no specs".  Sometimes this is a missing semi-colon and sometimes an ending curly brace is missing... just be extra vigilent and it should work fine.
+4. for complete instructions see below:--------------Happy Testing!----------------------
 
 # Project Overview
 
